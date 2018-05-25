@@ -1,7 +1,8 @@
 {
+	"id": "dns",
 	"env": {
 		"SERVER_NAME": "foo.com",
 		"SERVER_IP": "8.8.8.8",
-		"COMMAND": "cat /etc/hosts; sleep 50000000000000"
+		"COMMAND": "cat /etc/hosts"
 	  }
 }
