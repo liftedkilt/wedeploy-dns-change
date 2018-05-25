@@ -1,0 +1,7 @@
+{
+	"env": {
+		"SERVER_NAME": "foo.com",
+		"SERVER_IP": "8.8.8.8",
+		"COMMAND": "echo hello"
+	  }
+}
